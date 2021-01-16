@@ -24,3 +24,7 @@ print(txt.replace(" " , " "))#4
 print(txt.upper())#5
 print(txt.lower())#6
 print(txt.replace("e", "z"))#7
+
+myname = "tiger"
+txt ="{} is the best programmer"
+print(txt.format(myname))
