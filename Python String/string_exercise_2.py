@@ -19,7 +19,7 @@ print(myname) #แสดงชื่อ
 print(txt.format(myname))
 print(len(txt)) #1
 print(txt[0])   #2
-print(txt[9:14])#3 
+print(txt[10:14])#3 
 print(txt.replace(" " , ""))#4
 print(txt.upper())#5
 print(txt.lower())#6
