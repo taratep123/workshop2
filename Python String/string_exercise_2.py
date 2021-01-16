@@ -15,12 +15,12 @@
 #จงเติมคำในช่องว่าเพื่อแสดงชื่อ
 myname = "tiger"
 txt = "i am  the best programmer"
-print(myname)
+print(myname) #แสดงชื่อ
 print(txt.format(myname))
-print(len(txt))
-print(txt[0])
-print(txt[9:14])
-print(txt.replace(" " , " "))
-print(txt.upper())
-print(txt.lower())
-print(txt.replace("e", "z"))
+print(len(txt)) #1
+print(txt[0])   #2
+print(txt[9:14])#3 
+print(txt.replace(" " , " "))#4
+print(txt.upper())#5
+print(txt.lower())#6
+print(txt.replace("e", "z"))#7
